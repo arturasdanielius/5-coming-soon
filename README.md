@@ -12,7 +12,7 @@ This project is for educational purposes only. Pull request are welcome, but pri
 
 Site published at: https://arturasdanielius.github.io/5-coming-soon/
 
-Design: [Coming soon]()
+Design: [Coming soon](https://cdn.discordapp.com/attachments/850245533838868480/850246473362178048/coming-soon-wide.png)
 
 ## Project features
 
