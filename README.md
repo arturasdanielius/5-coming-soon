@@ -12,7 +12,7 @@ This project is for educational purposes only. Pull request are welcome, but pri
 
 Site published at: https://arturasdanielius.github.io/5-coming-soon/
 
-Design: [Astronaut](https://cdn.dribbble.com/users/1355613/screenshots/5964475/space.gif)
+Design: [Coming soon]()
 
 ## Project features
 
