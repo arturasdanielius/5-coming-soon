@@ -1,30 +1,19 @@
-
-
-body.
+body, 
 body * {
-   margin: 0;
-   padding: 0;
-   vertical-align: top;
-   box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    box-sizing: border-box;
 }
 
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-
-.a {
-    float: left;
-    width: 50%;
-    padding: 100px;;
-    border: 10px solid black;
-    background-color: red;
+:root {
+    --main-color: #03A9F4;
 }
 
-.b {
-    float: left;
-    width: 50%;
-    padding: 100px;
-    border: 10px solid black;
-    background-color: green;
+.bg-main {
+    background-color: var(--main-color);
 }
