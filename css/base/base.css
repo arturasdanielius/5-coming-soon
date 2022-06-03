@@ -14,6 +14,25 @@ body {
     --main-color: #03A9F4;
 }
 
+img {
+    width: 100px;
+    object-fit: none;
+    object-position: bottom;
+    background-color: violet;
+
+}
+
+.bg-img {
+    height: 100px;
+    width: 100%;
+    background-color: red;
+    background-image: url(../../img/logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
 .bg-main {
     background-color: var(--main-color);
 }
+

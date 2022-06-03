@@ -14,3 +14,27 @@
 
 /* custom style goes below this comment line */
 
+/*HERO start*/
+.hero {
+    text-align: center;
+}
+
+.hero > .logo {
+    width: 100px;
+
+} 
+
+.hero > .title {
+    
+}
+
+.hero > .description {
+    
+} 
+/*HERO end*/
+
+/*MAIN start*/
+/*MAIN end*/
+
+/*FOOTER start*/
+/*FOOTER end*/
