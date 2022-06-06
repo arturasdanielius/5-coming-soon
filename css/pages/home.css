@@ -75,6 +75,15 @@ section.bg-main{
 /*MAIN end*/
 
 /*FOOTER start*/
+footer.container {
+    padding-top: 0;
+}
+footer > .row {
+    display: flex;
+    justify-content: center;
+    padding: 15px 0;
+    border-bottom: 2px solid #fffa;
+}
 .footer-bottom {
     display: flex;
     flex-direction: column;
@@ -94,5 +103,22 @@ section.bg-main{
 }
 .footer-bottom a {
     color: #fff;
+}
+.futeriukai > * {
+    position: relative;
+}
+.futeriukai > *::after {
+    display: inline-block;
+    content: '';
+    width: 0.7px;
+    height: 20px ;
+    background-color: #fff;
+    position: absolute;
+    top: 50%;
+    right: -15px;
+    transform: translate(50%, -50%);
+}
+.futeriukai > *:last-child::after {
+    display: none;
 }
 /*FOOTER end*/
