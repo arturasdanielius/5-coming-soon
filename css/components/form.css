@@ -22,3 +22,7 @@
     max-height: 240px;
     resize: vertical;
 }
+.form :focus-visible {
+    outline: 2px dotted red;
+
+}
