@@ -78,9 +78,7 @@ section.bg-main{
 footer.container {
     padding-top: 0;
 }
-footer > .row {
- 
-}
+
 .socials {
     display: flex;
     justify-content: center;
