@@ -2,11 +2,21 @@
     padding: 18px 30px;
     border-radius: 6px;
     font-size: 18px;
-    line-height: 18px;
+    line-height: 1em;
     background-color: red;
+    text-align: center;
+    text-decoration: none;
     color: #fff;
     border: none;
-    
+}
 
-
+.back-to-top {
+    border-radius: 50%;
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+}
+.btn.btn-circle {
+    padding: 1em;
+    width: 3em;
 }
